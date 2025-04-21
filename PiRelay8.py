@@ -19,8 +19,8 @@ class Relay:
     "RELAY5", "RELAY6", "RELAY7", "RELAY8")
     """
     relaypins = {
-        "RELAY1": 37, "RELAY2": 35, "RELAY3": 33, "RELAY4": 31,
-        "RELAY5": 29, "RELAY6": 23, "RELAY7": 21, "RELAY8": 19
+        "RELAY1": 29, "RELAY2": 31, "RELAY3": 33, "RELAY4": 36,
+        "RELAY5": 35, "RELAY6": 38, "RELAY7": 40, "RELAY8": 37
                  }
 
     def __init__(self, relay):
